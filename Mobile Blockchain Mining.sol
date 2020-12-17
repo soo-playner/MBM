@@ -1,3 +1,6 @@
+/**
+ *Submitted for verification at Etherscan.io on 2020-05-29
+*/
 
 pragma solidity ^0.5.0;
 
